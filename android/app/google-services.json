@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "989473432120",
+    "project_id": "test-772a0",
+    "storage_bucket": "test-772a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989473432120:android:de2f2897dc60db6a923ccd",
+        "android_client_info": {
+          "package_name": "com.dantas.thiago.finacash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989473432120-6miluvdtrtn5vbkl05v7gao7vevnvjto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-MhowwSC8XWNeFf8APit6VIUyfTjulOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989473432120-6miluvdtrtn5vbkl05v7gao7vevnvjto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989473432120:android:45570156291f51db923ccd",
+        "android_client_info": {
+          "package_name": "com.dantas.thiago.finacash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989473432120-6miluvdtrtn5vbkl05v7gao7vevnvjto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-MhowwSC8XWNeFf8APit6VIUyfTjulOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989473432120-6miluvdtrtn5vbkl05v7gao7vevnvjto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
