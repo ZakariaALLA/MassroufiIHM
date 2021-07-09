@@ -21,29 +21,29 @@ transports).
 * 6 ème chose : Enjoy ...
 
 <p align="center">
-  <img src="assets/print_1.png">
+  <img src="assets/print_1.png" width="400">
 </p>
 
 <p align="center">
-  <img src="assets/print_2.png">
+  <img src="assets/print_2.png" width="400">
 </p>
 
 <p align="center">
-  <img src="assets/print_3.png">
+  <img src="assets/print_3.png" width="400">
 </p>
 
 <p align="center">
-  <img src="assets/print_4.png">
+  <img src="assets/print_4.png" width="400">
 </p>
 
 <p align="center">
-  <img src="assets/print_5.png">
+  <img src="assets/print_8.png" width="400">
+</p>
+
+<p align="center"> 
+  <img src="assets/print_9.png" width="400">
 </p>
 
 <p align="center">
-  <img src="assets/print_6.png">
-</p>
-
-<p align="center">
-  <img src="assets/print_7.png">
+  <img src="assets/print_10.png" width="400">
 </p>
