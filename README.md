@@ -16,7 +16,7 @@ transports).
 * 1 ère chose : faire un clone de ce projet en utilisant la commande `clone`. 
 * 2 ème chose : Ouvrir le projet dans l IDE Android Studio ou VS Code.
 * 3 ème chose : Lancer un emulateur, sinon utiliser votre téléphone en mode dévloppeur.
-* 4 ème chose : Lancer la commande `flutter pub get` pour installer les dependances.
+* 4 ème chose : Lancer la commande `flutter pub get` pour installer les dépendances.
 * 5 ème chose : Lancer la commande `flutter run`.
 * 6 ème chose : Enjoy ...
 
